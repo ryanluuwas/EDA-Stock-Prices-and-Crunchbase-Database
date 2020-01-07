@@ -1,5 +1,5 @@
 # EDA Stock Prices and Crunchbase Database
-Exploratory data analysis onto stock prices (2016 — 2017) and Crunchbase Database
+Exploratory data analysis onto stock prices (2016 — 2017) and Crunchbase Database.
 ___
 
 # Objective
